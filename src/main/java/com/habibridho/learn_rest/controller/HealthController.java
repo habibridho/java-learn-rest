@@ -1,5 +1,6 @@
-package com.habibridho.learn_rest;
+package com.habibridho.learn_rest.controller;
 
+import com.habibridho.learn_rest.model.Health;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RequestParam;

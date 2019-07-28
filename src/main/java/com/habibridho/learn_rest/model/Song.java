@@ -1,4 +1,4 @@
-package com.habibridho.learn_rest;
+package com.habibridho.learn_rest.model;
 
 import java.time.Duration;
 

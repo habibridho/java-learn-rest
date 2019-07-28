@@ -1,4 +1,4 @@
-package com.habibridho.learn_rest;
+package com.habibridho.learn_rest.model;
 
 public class Health {
     private final String message;
