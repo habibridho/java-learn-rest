@@ -1,5 +1,17 @@
 spring:
   application:
     name: learn-rest
+  jpa:
+    hibernate:
+      ddl-auto: validate
+      dialect: org.hibernate.dialect.PostgreSQLDialect
+  datasource:
+    initialize: false
+    url: jdbc:postgresql://localhost:5432/blog
+    username: postgres
+    password:
+flyway:
+  enabled: true
+  baseline-on-migrate: true
 server:
   port: 9090

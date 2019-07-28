@@ -1,4 +1,4 @@
-package com.habibridho.learn_rest.controller;
+package com.habibridho.learn_rest.controllers;
 
 import com.habibridho.learn_rest.model.Health;
 import com.habibridho.learn_rest.model.Response;
